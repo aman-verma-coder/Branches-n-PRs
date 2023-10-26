@@ -1,0 +1,16 @@
+*{
+    color: blue;
+    background-color: aliceblue;
+}
+form{
+    margin-left: 2.5rem;
+    margin-top: 2.5rem;
+}
+button{
+    background-color: cadetblue;
+}
+button:hover{
+    transition: 500ms;
+    color: darkcyan;
+    background-color: darkgreen;
+}
